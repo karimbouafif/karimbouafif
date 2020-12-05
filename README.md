@@ -8,9 +8,11 @@
 
 ### Languages and Tools : 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/48072325/101243874-642c8180-3703-11eb-88f1-dba4eccf15ca.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://user-images.githubusercontent.com/48072325/101243874-642c8180-3703-11eb-88f1-dba4eccf15ca.png" />
 <img align="left" alt="HTML 5" width="35px" src="https://user-images.githubusercontent.com/48072325/101243929-ac4ba400-3703-11eb-9b4c-8dcfb7ab0b25.png" />
 <img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/48072325/101243957-d43b0780-3703-11eb-8c32-d1a019bc68f9.png" />
 <img align="left" alt="JS" width="35px" src="https://user-images.githubusercontent.com/48072325/101244065-807cee00-3704-11eb-97b4-880ceaa8a732.png" />
 <img align="left" alt="ANDROID STUDIO" width="30px" src="https://user-images.githubusercontent.com/48072325/101244110-c934a700-3704-11eb-8612-17a0fabb3e46.jpg" />
 <img align="left" alt="PHP STORM" width="30px" src="https://user-images.githubusercontent.com/48072325/101244133-eb2e2980-3704-11eb-8308-f07a4807891c.png" />
+<img align="left" alt="PHP STORM" width="30px" src="https://user-images.githubusercontent.com/48072325/101244133-eb2e2980-3704-11eb-8308-f07a4807891c.png" />
+<img align="left" alt="MY SQL" width="30px" src="https://user-images.githubusercontent.com/48072325/101244157-1284f680-3705-11eb-9820-ef8c94fa496c.png" />
