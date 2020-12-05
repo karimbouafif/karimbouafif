@@ -8,4 +8,4 @@
 
 ### Languages and Tools : 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/48072325/101243874-642c8180-3703-11eb-88f1-dba4eccf15ca.png" />] [webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/48072325/101243874-642c8180-3703-11eb-88f1-dba4eccf15ca.png" />] 
