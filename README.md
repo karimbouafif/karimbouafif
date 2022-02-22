@@ -20,4 +20,4 @@
 <img align="left" alt="MY SQL" width="40px" src="https://user-images.githubusercontent.com/48072325/101244157-1284f680-3705-11eb-9820-ef8c94fa496c.png" />
 <img align="left" alt="MY SQL" width="30px" src="https://user-images.githubusercontent.com/48072325/101244200-46f8b280-3705-11eb-871d-8b988f1a7be9.png" />
 <img align="left" alt="MY SQL" width="30px" src="https://user-images.githubusercontent.com/48072325/101244224-6abbf880-3705-11eb-942f-05640d3ac611.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://user-images.githubusercontent.com/48072325/155176747-a9747d0c-8e8e-4ccf-94b7-d4a179a919cc.png" />
+<img align="left" alt="MongoDB" width="40px" src="https://user-images.githubusercontent.com/48072325/155176747-a9747d0c-8e8e-4ccf-94b7-d4a179a919cc.png" />
