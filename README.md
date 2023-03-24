@@ -2,7 +2,7 @@
 
 :bulb: I'm an aspiring software developer  :star:
 
-:speech_balloon: Ask me about Anything if i can help i'll do my best :man: 
+:speech_balloon: Ask me about anything. If I can help, I'll do my best :man: 
 
 :email: How to reach me: karimbouafif1997@gmail.com
 
